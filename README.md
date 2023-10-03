@@ -1,8 +1,17 @@
-# React + Vite
+# Installation
+npm Install
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ScreenShots
+![Screenshot 2023-10-03 at 12-14-40 Car rent](https://github.com/adithyanajay/22N-landing-page/assets/65997321/dfa84341-9a51-40b5-860c-f45c81503595)
 
-Currently, two official plugins are available:
+# Techonologies used
+- React + Vite
+- Redux
+- Tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+- Dynamic Search Recomendation
+- Pagenation
+- Cards
+- Responsive
+
